@@ -1,2 +1,6 @@
 #executaveis
 *.exe
+
+
+#envs
+/huff-env
