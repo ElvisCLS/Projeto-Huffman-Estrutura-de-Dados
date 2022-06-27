@@ -1,5 +1,5 @@
-#ifndef STRUCTS
-#define STRUCTS
+#ifndef STRUCTS_H
+#define STRUCTS_H
 
 #define MAX 257
 
