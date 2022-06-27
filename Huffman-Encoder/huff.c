@@ -125,7 +125,7 @@ void compact()
 	//Impressão
 	while (fscanf(in, "%c", &s) != EOF)
 	{
-		printf("%hu ",s);
+		//printf("%hu ",s);
 		control = ht -> table[s] -> bits;
 		empty_bits = empty_bits - control;
 		c = ht -> table[s] -> shift_bit;
